@@ -1,0 +1,13 @@
+C:\Users\Andrey\source\repos\ParProg2\ParProg2\bin\Debug\netcoreapp3.1\ParProg2.exe
+C:\Users\Andrey\source\repos\ParProg2\ParProg2\bin\Debug\netcoreapp3.1\ParProg2.deps.json
+C:\Users\Andrey\source\repos\ParProg2\ParProg2\bin\Debug\netcoreapp3.1\ParProg2.runtimeconfig.json
+C:\Users\Andrey\source\repos\ParProg2\ParProg2\bin\Debug\netcoreapp3.1\ParProg2.runtimeconfig.dev.json
+C:\Users\Andrey\source\repos\ParProg2\ParProg2\bin\Debug\netcoreapp3.1\ParProg2.dll
+C:\Users\Andrey\source\repos\ParProg2\ParProg2\bin\Debug\netcoreapp3.1\ParProg2.pdb
+C:\Users\Andrey\source\repos\ParProg2\ParProg2\obj\Debug\netcoreapp3.1\ParProg2.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\ParProg2\ParProg2\obj\Debug\netcoreapp3.1\ParProg2.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\ParProg2\ParProg2\obj\Debug\netcoreapp3.1\ParProg2.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\ParProg2\ParProg2\obj\Debug\netcoreapp3.1\ParProg2.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\ParProg2\ParProg2\obj\Debug\netcoreapp3.1\ParProg2.dll
+C:\Users\Andrey\source\repos\ParProg2\ParProg2\obj\Debug\netcoreapp3.1\ParProg2.pdb
+C:\Users\Andrey\source\repos\ParProg2\ParProg2\obj\Debug\netcoreapp3.1\ParProg2.genruntimeconfig.cache
